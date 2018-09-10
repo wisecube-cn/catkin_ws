@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: tf_demo
+Description: Description of tf_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/root/catkin_ws/install/lib 
+Requires: 
